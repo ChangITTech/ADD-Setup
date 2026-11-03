@@ -19,3 +19,5 @@ Step 4. After clicking on "Add roles and features", keep clicking "Next" until y
 Step 5. Continue clicking next until you reach here. Click on "Add Features"
 
 Step 6.Confirm "Add Features" and it will take you to this page. Click "install". Then wait for it to finish install.
+
+Step 7.Once finish installing "Active Directory Domain Services".
